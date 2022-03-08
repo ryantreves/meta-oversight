@@ -184,7 +184,7 @@ dashboardPage(
             #second tab menu- Methodology
             tabItem(tabName="methodology",
                     h2("Methodology"),
-                    p(style="font-size:17px", "All raw data from this analysis
+                    p(style="font-size:17px", "All raw data
                       come from ", a("https://transparency.fb.com/oversight/-board-recommendations/",
                                      href="https://transparency.fb.com/oversight/
                                      oversight-board-recommendations/"),
@@ -197,7 +197,7 @@ dashboardPage(
                     p(style="font-size:17px", "I created the categories for this
                     table by qualitatively grouping the recommendations based
                       on their description (the categories don't reflect any
-                      official categories created by the Oversight Board or Meta."),
+                      official categories created by the Oversight Board or Meta.)"),
                     p(style="font-size:17px",strong("How quickly does Meta make
                     progress on Oversight Board
                        recommendations?")),
